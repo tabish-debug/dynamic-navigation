@@ -1,6 +1,11 @@
 # dynamic-navigation
 
-### cd client.
-### run simple <sup> npm i </sup> for install packages
-### run simple <sup> npm start </sup> for start UI server
+This is dynamic navigation app in which server response in which screen client app redirect randomly.
+
+### `running commands`
+
+```
+npm i --save
+npm start
+```
 

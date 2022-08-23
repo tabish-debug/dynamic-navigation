@@ -1,4 +1,4 @@
-# dynamic-navigation
+# `dynamic-navigation`
 
 This is dynamic navigation app in which server response in which screen client app redirect randomly.
 
